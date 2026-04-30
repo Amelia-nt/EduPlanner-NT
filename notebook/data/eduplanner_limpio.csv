@@ -1,0 +1,926 @@
+id,nombre,materia_favorita,fecha_registro
+101,mariana,inglés,2026-01-01
+785,beatriz,matemáticas,2026-01-14
+322,amelia,programación,2026-01-18
+616,beatriz,inglés,2026-01-03
+762,beatriz_123,programación,2026-01-01
+988,carlos,base de datos,2026-01-11
+874,carlos,matemáticas,2026-01-08
+728,amelia,base de datos,2026-02-16
+897,carlos,matemáticas,2026-02-08
+344,beatriz,programación,2026-01-31
+559,jose,base de datos,2026-02-25
+901,jose,matemáticas,2026-02-12
+500,carlos,inglés,2026-01-05
+931,mariana,base de datos,2026-01-13
+498,carlos,programación,2026-01-23
+260,amelia,inglés,2026-02-21
+155,jose,base de datos,2026-02-08
+989,carlos,base de datos,2026-02-16
+968,carlos,base de datos,2026-01-17
+840,mariana,base de datos,2026-01-27
+270,jose,base de datos,2026-02-06
+904,beatriz,inglés,2026-02-03
+114,jose,matemáticas,2026-01-15
+549,amelia,base de datos,2026-01-17
+699,jose,programación,2026-01-06
+453,amelia,base de datos,2026-01-19
+698,beatriz,programación,2026-01-28
+553,mariana,base de datos,2026-02-25
+279,amelia,programación,2026-01-20
+954,mariana,base de datos,2026-02-14
+500,carlos,programación,2026-02-12
+817,jose,base de datos,2026-01-03
+429,carlos,inglés,2026-02-03
+451,jose,inglés,2026-02-11
+709,beatriz,base de datos,2026-02-07
+415,carlos,matemáticas,2026-02-18
+657,carlos,base de datos,2026-02-11
+248,beatriz,inglés,2026-01-13
+934,carlos,inglés,2026-01-02
+528,carlos_123,base de datos,2026-01-29
+331,amelia,matemáticas,2026-02-06
+189,carlos,inglés,2026-02-22
+785,beatriz,programación,2026-02-10
+736,carlos,inglés,2026-02-07
+649,mariana,matemáticas,2026-01-11
+486,carlos,matemáticas,2026-02-19
+884,beatriz,matemáticas,2026-02-20
+721,carlos,base de datos,2026-02-13
+849,mariana,programación,2026-01-17
+207,carlos,matemáticas,2026-01-06
+748,mariana,base de datos,2026-01-19
+611,amelia,matemáticas,2026-02-15
+789,jose,inglés,2026-01-27
+374,carlos,programación,2026-01-04
+198,jose,base de datos,2026-01-23
+422,jose,base de datos,2026-01-07
+500,amelia,matemáticas,2026-01-28
+659,beatriz,programación,2026-01-24
+920,jose,matemáticas,2026-01-09
+433,beatriz,programación,2026-01-31
+620,mariana,base de datos,2026-01-24
+829,mariana,inglés,2026-01-02
+638,mariana,matemáticas,2026-02-25
+876,beatriz,matemáticas,2026-02-12
+333,amelia,base de datos,2026-01-19
+797,jose,base de datos,2026-01-15
+469,amelia,matemáticas,2026-01-06
+450,amelia,base de datos,2026-01-05
+255,mariana,programación,2026-01-06
+891,jose,matemáticas,2026-01-11
+199,amelia,base de datos,2026-02-21
+758,carlos,inglés,2026-01-21
+869,carlos,base de datos,2026-02-21
+178,carlos,matemáticas,2026-01-15
+361,mariana,base de datos,2026-02-06
+893,mariana,inglés,2026-01-05
+511,beatriz,matemáticas,2026-01-27
+377,beatriz,base de datos,2026-02-22
+937,amelia,matemáticas,2026-02-26
+284,mariana,matemáticas,2026-01-21
+580,jose,matemáticas,2026-03-02
+799,amelia,matemáticas,2026-01-18
+254,jose,matemáticas,2026-01-25
+163,carlos,inglés,2026-02-06
+641,amelia,programación,2026-01-04
+952,jose,inglés,2026-02-27
+592,amelia,matemáticas,2026-02-28
+272,amelia,matemáticas,2026-01-29
+747,amelia,inglés,2026-01-30
+329,mariana,programación,2026-01-07
+787,amelia,matemáticas,2026-02-20
+662,mariana,inglés,2026-01-20
+819,beatriz,programación,2026-01-22
+540,jose,programación,2026-02-09
+957,mariana,matemáticas,2026-01-01
+840,jose,inglés,2026-02-16
+550,carlos,matemáticas,2026-01-28
+153,mariana,base de datos,2026-02-02
+237,amelia,base de datos,2026-02-15
+770,mariana,base de datos,2026-02-19
+901,mariana,inglés,2026-01-02
+578,jose,inglés,2026-02-02
+188,beatriz,base de datos,2026-02-22
+116,jose,inglés,2026-01-01
+860,jose,matemáticas,2026-01-07
+191,beatriz,programación,2026-01-14
+272,amelia,programación,2026-02-13
+735,mariana,matemáticas,2026-01-29
+440,amelia,programación,2026-02-11
+411,jose,base de datos,2026-02-16
+564,amelia,base de datos,2026-01-14
+569,amelia_123,base de datos,2026-03-01
+937,mariana,matemáticas,2026-02-09
+338,jose,base de datos,2026-01-04
+868,jose,inglés,2026-03-01
+205,beatriz,programación,2026-01-12
+733,mariana,matemáticas,2026-01-25
+433,mariana,base de datos,2026-01-09
+777,mariana,inglés,2026-01-01
+875,carlos,programación,2026-01-20
+950,carlos_123,matemáticas,2026-01-02
+367,beatriz_123,matemáticas,2026-02-04
+451,mariana,base de datos,2026-02-09
+794,beatriz_123,matemáticas,2026-02-18
+571,carlos,programación,2026-01-01
+575,carlos,base de datos,2026-01-06
+388,mariana,inglés,2026-03-02
+896,jose,programación,2026-02-05
+785,carlos,base de datos,2026-02-01
+229,jose,inglés,2026-02-04
+277,beatriz,matemáticas,2026-02-15
+725,amelia,programación,2026-02-22
+625,beatriz,inglés,2026-02-05
+183,carlos,inglés,2026-01-27
+683,jose,base de datos,2026-02-04
+628,amelia,programación,2026-01-09
+245,jose_123,inglés,2026-01-23
+505,mariana,matemáticas,2026-01-09
+922,carlos,programación,2026-02-07
+209,jose,inglés,2026-01-20
+931,jose,base de datos,2026-01-02
+139,beatriz_123,inglés,2026-01-24
+638,mariana,inglés,2026-01-25
+238,jose,base de datos,2026-01-28
+472,mariana,matemáticas,2026-01-04
+673,beatriz,programación,2026-02-19
+893,mariana,matemáticas,2026-02-06
+544,amelia,inglés,2026-02-12
+507,jose,base de datos,2026-01-09
+867,mariana,inglés,2026-01-11
+238,mariana,matemáticas,2026-01-13
+428,mariana,base de datos,2026-02-06
+447,carlos,matemáticas,2026-02-02
+428,mariana,matemáticas,2026-02-01
+594,mariana_123,matemáticas,2026-02-03
+516,carlos,matemáticas,2026-02-13
+502,jose,matemáticas,2026-02-12
+554,mariana,base de datos,2026-02-17
+997,amelia,base de datos,2026-02-27
+452,mariana,base de datos,2026-02-11
+428,amelia,matemáticas,2026-02-04
+357,beatriz_123,base de datos,2026-01-24
+341,amelia,matemáticas,2026-01-02
+764,mariana,programación,2026-02-01
+263,jose,inglés,2026-02-17
+704,beatriz,base de datos,2026-01-28
+289,mariana,inglés,2026-03-02
+160,jose,inglés,2026-01-27
+927,amelia_123,base de datos,2026-02-09
+139,carlos,programación,2026-02-23
+273,mariana,programación,2026-02-12
+734,carlos,matemáticas,2026-02-25
+500,amelia,inglés,2026-01-10
+469,amelia,base de datos,2026-01-22
+580,amelia,inglés,2026-01-30
+924,beatriz_123,programación,2026-02-28
+478,beatriz,programación,2026-01-28
+139,amelia,programación,2026-02-21
+466,mariana,base de datos,2026-02-25
+800,carlos,matemáticas,2026-02-21
+947,beatriz,inglés,2026-03-02
+925,jose,matemáticas,2026-02-07
+383,mariana,programación,2026-03-01
+367,carlos,programación,2026-02-19
+425,amelia,inglés,2026-02-21
+162,mariana,base de datos,2026-01-08
+680,jose,base de datos,2026-01-10
+984,mariana,base de datos,2026-01-28
+927,carlos,programación,2026-02-10
+333,beatriz,matemáticas,2026-02-11
+261,jose,base de datos,2026-01-28
+248,jose,programación,2026-01-24
+739,beatriz,matemáticas,2026-01-30
+800,carlos,programación,2026-02-21
+590,jose_123,base de datos,2026-01-20
+629,beatriz,inglés,2026-02-04
+568,amelia,inglés,2026-02-22
+279,jose,inglés,2026-01-26
+418,amelia,base de datos,2026-02-10
+719,jose,base de datos,2026-01-07
+445,mariana,inglés,2026-01-31
+571,jose,matemáticas,2026-02-10
+462,jose,inglés,2026-01-16
+743,jose,programación,2026-01-11
+172,mariana,base de datos,2026-02-19
+453,jose,base de datos,2026-02-22
+808,carlos,matemáticas,2026-02-23
+221,carlos,base de datos,2026-01-27
+755,amelia,programación,2026-02-23
+173,mariana,base de datos,2026-01-02
+678,jose,base de datos,2026-01-24
+444,carlos,base de datos,2026-01-30
+535,carlos,programación,2026-02-16
+421,amelia,matemáticas,2026-01-24
+912,beatriz,inglés,2026-02-03
+676,jose,base de datos,2026-02-25
+261,jose,matemáticas,2026-01-19
+478,carlos,base de datos,2026-02-03
+168,mariana,base de datos,2026-02-12
+346,mariana,base de datos,2026-01-25
+107,carlos,base de datos,2026-01-21
+188,jose,inglés,2026-01-14
+937,amelia_123,programación,2026-02-18
+447,carlos,matemáticas,2026-02-16
+900,jose,inglés,2026-01-04
+633,jose,inglés,2026-02-13
+684,beatriz,programación,2026-02-12
+374,amelia,inglés,2026-02-17
+736,carlos,inglés,2026-02-10
+711,amelia,base de datos,2026-01-13
+782,mariana,base de datos,2026-02-17
+960,jose,matemáticas,2026-02-08
+398,mariana,programación,2026-02-24
+582,mariana,matemáticas,2026-01-26
+312,jose,base de datos,2026-01-09
+965,amelia,matemáticas,2026-02-08
+420,jose,base de datos,2026-02-09
+167,amelia,matemáticas,2026-02-22
+432,mariana,matemáticas,2026-02-10
+988,carlos,matemáticas,2026-02-04
+971,amelia,matemáticas,2026-01-10
+679,beatriz,programación,2026-03-01
+896,beatriz,inglés,2026-01-01
+290,jose,base de datos,2026-01-19
+587,jose,matemáticas,2026-02-20
+262,jose,base de datos,2026-01-02
+160,beatriz,matemáticas,2026-01-12
+299,jose,matemáticas,2026-02-11
+451,amelia,programación,2026-01-06
+957,beatriz,inglés,2026-02-04
+681,mariana,matemáticas,2026-03-02
+513,amelia,base de datos,2026-02-24
+576,amelia,matemáticas,2026-01-26
+281,amelia,programación,2026-01-21
+490,jose,base de datos,2026-02-12
+605,carlos,inglés,2026-01-25
+271,jose,base de datos,2026-02-09
+315,jose,matemáticas,2026-02-05
+402,jose,base de datos,2026-03-01
+841,carlos,matemáticas,2026-03-02
+976,jose,programación,2026-02-15
+114,carlos,matemáticas,2026-03-01
+303,mariana,inglés,2026-02-10
+789,carlos,base de datos,2026-01-16
+300,amelia,base de datos,2026-02-08
+277,beatriz,inglés,2026-01-22
+786,jose,inglés,2026-02-12
+501,jose,base de datos,2026-02-13
+990,mariana,inglés,2026-02-14
+459,amelia_123,inglés,2026-01-19
+112,amelia,matemáticas,2026-01-10
+865,carlos,matemáticas,2026-01-11
+424,beatriz,matemáticas,2026-01-21
+386,mariana_123,matemáticas,2026-01-28
+321,beatriz,base de datos,2026-01-12
+260,mariana,matemáticas,2026-01-13
+974,beatriz,base de datos,2026-01-30
+866,amelia,matemáticas,2026-02-19
+443,carlos,programación,2026-01-26
+383,amelia,programación,2026-01-24
+702,carlos,matemáticas,2026-03-02
+447,mariana,programación,2026-02-17
+849,carlos,base de datos,2026-01-23
+865,jose,inglés,2026-01-15
+636,jose,base de datos,2026-01-25
+653,mariana,programación,2026-02-15
+700,jose,base de datos,2026-01-15
+842,carlos,base de datos,2026-02-22
+907,carlos,matemáticas,2026-02-19
+529,beatriz,programación,2026-01-06
+484,jose,base de datos,2026-01-29
+978,jose,base de datos,2026-02-20
+334,amelia,base de datos,2026-02-04
+118,beatriz,base de datos,2026-01-23
+654,jose,programación,2026-03-01
+884,jose,base de datos,2026-02-25
+586,mariana,programación,2026-02-15
+573,beatriz,base de datos,2026-01-21
+316,beatriz,base de datos,2026-02-07
+935,mariana,inglés,2026-02-13
+215,amelia,base de datos,2026-01-18
+977,jose,base de datos,2026-01-27
+998,amelia,matemáticas,2026-02-13
+860,mariana,base de datos,2026-01-28
+867,beatriz,base de datos,2026-01-20
+247,beatriz,inglés,2026-02-21
+550,beatriz,inglés,2026-01-09
+156,carlos,base de datos,2026-01-10
+944,carlos,base de datos,2026-01-24
+858,beatriz,base de datos,2026-02-16
+789,mariana,programación,2026-02-20
+281,mariana,programación,2026-01-18
+123,beatriz,inglés,2026-01-10
+407,carlos,programación,2026-02-21
+359,carlos,matemáticas,2026-02-12
+152,amelia,base de datos,2026-01-20
+175,amelia,programación,2026-02-25
+649,carlos,matemáticas,2026-01-25
+998,amelia,base de datos,2026-01-10
+704,beatriz,matemáticas,2026-02-05
+326,mariana_123,programación,2026-01-01
+703,mariana,inglés,2026-01-03
+616,jose,inglés,2026-02-27
+365,mariana,matemáticas,2026-02-14
+850,beatriz,matemáticas,2026-01-04
+538,carlos,matemáticas,2026-01-03
+858,carlos,matemáticas,2026-02-22
+752,mariana,matemáticas,2026-02-04
+755,beatriz,programación,2026-01-11
+245,mariana_123,matemáticas,2026-02-28
+288,amelia,matemáticas,2026-01-06
+921,carlos,inglés,2026-03-01
+309,mariana,inglés,2026-02-06
+507,carlos,matemáticas,2026-02-18
+311,carlos,base de datos,2026-02-04
+503,carlos,base de datos,2026-01-26
+788,amelia,programación,2026-03-02
+851,beatriz,programación,2026-01-05
+521,carlos,inglés,2026-01-15
+115,beatriz,base de datos,2026-01-26
+510,carlos,matemáticas,2026-01-06
+872,mariana,inglés,2026-01-21
+795,jose,base de datos,2026-01-09
+694,jose,programación,2026-01-07
+866,jose,base de datos,2026-02-01
+892,amelia,programación,2026-01-05
+653,amelia,base de datos,2026-01-23
+924,amelia,inglés,2026-01-04
+344,amelia_123,inglés,2026-01-28
+799,carlos,matemáticas,2026-01-13
+216,beatriz,inglés,2026-02-01
+421,beatriz,inglés,2026-01-13
+254,beatriz_123,programación,2026-02-02
+648,amelia,base de datos,2026-01-31
+857,jose,programación,2026-01-08
+120,carlos,programación,2026-02-10
+426,amelia,programación,2026-01-17
+442,mariana,inglés,2026-01-23
+765,mariana,programación,2026-02-01
+836,carlos,matemáticas,2026-02-12
+464,mariana,inglés,2026-02-03
+854,beatriz,inglés,2026-01-21
+812,jose,base de datos,2026-01-05
+156,beatriz,matemáticas,2026-02-27
+145,amelia,inglés,2026-01-12
+471,carlos,base de datos,2026-03-02
+622,jose,programación,2026-02-15
+930,carlos,base de datos,2026-01-11
+699,jose,programación,2026-01-25
+890,mariana,programación,2026-02-25
+733,beatriz,programación,2026-01-13
+990,carlos,programación,2026-01-06
+227,amelia,base de datos,2026-03-02
+803,mariana,matemáticas,2026-02-10
+394,beatriz,matemáticas,2026-01-19
+691,amelia,matemáticas,2026-01-15
+333,carlos,inglés,2026-02-11
+714,carlos,inglés,2026-02-28
+814,jose,matemáticas,2026-02-27
+898,jose,inglés,2026-03-01
+138,mariana,inglés,2026-02-23
+412,amelia,base de datos,2026-01-30
+103,amelia,programación,2026-02-24
+123,amelia,base de datos,2026-03-01
+842,beatriz,programación,2026-01-08
+589,mariana,inglés,2026-02-25
+430,jose,inglés,2026-02-28
+708,jose,programación,2026-01-29
+496,carlos,matemáticas,2026-02-06
+298,jose_123,base de datos,2026-01-15
+626,amelia,base de datos,2026-01-19
+483,beatriz,programación,2026-01-12
+929,beatriz,matemáticas,2026-02-17
+569,carlos,inglés,2026-01-09
+648,jose,programación,2026-01-01
+282,amelia,programación,2026-01-02
+886,amelia,inglés,2026-01-19
+220,jose,matemáticas,2026-01-08
+297,jose,matemáticas,2026-03-01
+431,beatriz,programación,2026-03-01
+665,carlos,base de datos,2026-02-12
+873,jose,inglés,2026-02-14
+327,jose,matemáticas,2026-02-19
+167,beatriz,base de datos,2026-02-28
+190,jose,programación,2026-02-24
+212,carlos,inglés,2026-03-02
+820,jose,base de datos,2026-02-01
+931,beatriz,inglés,2026-02-06
+885,beatriz,base de datos,2026-02-17
+947,amelia,programación,2026-02-03
+726,mariana,matemáticas,2026-01-20
+804,mariana,programación,2026-03-02
+390,beatriz,programación,2026-02-22
+905,carlos,matemáticas,2026-01-25
+131,beatriz,programación,2026-02-02
+391,amelia,inglés,2026-01-10
+373,beatriz,matemáticas,2026-02-12
+797,jose,base de datos,2026-02-16
+942,jose,matemáticas,2026-02-23
+147,beatriz,base de datos,2026-01-11
+746,mariana,inglés,2026-02-02
+753,beatriz,base de datos,2026-02-02
+309,mariana,base de datos,2026-02-23
+144,amelia,programación,2026-01-27
+747,mariana,programación,2026-01-16
+571,carlos,base de datos,2026-02-24
+260,beatriz,programación,2026-02-18
+876,carlos,programación,2026-01-04
+575,amelia,inglés,2026-01-20
+891,mariana,base de datos,2026-02-11
+612,beatriz_123,programación,2026-02-21
+398,amelia,matemáticas,2026-01-18
+588,mariana,inglés,2026-03-02
+918,jose_123,base de datos,2026-01-14
+401,beatriz_123,base de datos,2026-01-17
+632,jose,inglés,2026-01-24
+536,jose,base de datos,2026-02-14
+857,amelia,programación,2026-01-15
+533,mariana,inglés,2026-01-12
+337,beatriz,inglés,2026-01-09
+839,beatriz,inglés,2026-02-14
+966,mariana,programación,2026-02-22
+491,jose,base de datos,2026-02-25
+213,carlos,base de datos,2026-02-07
+323,mariana,programación,2026-01-22
+711,mariana,programación,2026-02-06
+349,mariana,programación,2026-01-01
+701,beatriz,programación,2026-01-11
+548,beatriz,matemáticas,2026-01-02
+249,beatriz,programación,2026-02-25
+195,carlos,base de datos,2026-02-08
+157,carlos,base de datos,2026-02-13
+560,amelia,base de datos,2026-01-16
+288,amelia,programación,2026-01-21
+436,carlos,inglés,2026-01-08
+239,mariana,programación,2026-01-06
+465,carlos_123,inglés,2026-02-03
+437,jose,base de datos,2026-01-01
+366,jose,matemáticas,2026-02-28
+989,carlos,matemáticas,2026-01-01
+614,jose,matemáticas,2026-02-09
+704,carlos,programación,2026-02-20
+221,amelia,base de datos,2026-02-10
+913,jose,inglés,2026-01-08
+291,jose_123,matemáticas,2026-02-09
+269,amelia,programación,2026-01-29
+599,beatriz,programación,2026-01-22
+319,carlos,base de datos,2026-03-01
+436,amelia,programación,2026-01-12
+213,beatriz,programación,2026-01-10
+651,jose,inglés,2026-02-03
+934,beatriz,matemáticas,2026-02-06
+378,carlos_123,matemáticas,2026-02-21
+377,jose,programación,2026-01-26
+949,mariana_123,programación,2026-02-25
+553,beatriz,programación,2026-02-28
+432,amelia,programación,2026-01-27
+614,jose,base de datos,2026-01-19
+175,beatriz,programación,2026-02-08
+347,carlos,inglés,2026-01-14
+913,jose,base de datos,2026-01-14
+481,beatriz,inglés,2026-02-23
+833,amelia,base de datos,2026-01-21
+508,jose,base de datos,2026-02-24
+583,jose,matemáticas,2026-02-11
+303,jose,inglés,2026-02-04
+650,amelia,matemáticas,2026-01-01
+209,mariana,inglés,2026-01-14
+687,amelia,base de datos,2026-02-10
+790,mariana,inglés,2026-01-20
+389,carlos,programación,2026-01-24
+468,beatriz,programación,2026-01-20
+687,mariana,base de datos,2026-01-12
+437,jose,programación,2026-02-17
+643,jose,programación,2026-02-04
+963,beatriz,base de datos,2026-02-05
+317,jose,base de datos,2026-02-11
+873,jose,inglés,2026-02-15
+648,amelia,programación,2026-02-10
+432,jose,base de datos,2026-02-16
+548,beatriz,matemáticas,2026-02-18
+898,jose,base de datos,2026-02-07
+417,amelia,inglés,2026-01-16
+146,amelia,inglés,2026-02-22
+108,carlos,matemáticas,2026-02-01
+191,carlos,programación,2026-01-11
+841,carlos,inglés,2026-01-09
+347,amelia,inglés,2026-02-22
+330,beatriz,base de datos,2026-01-04
+393,jose,base de datos,2026-02-10
+182,amelia,matemáticas,2026-01-18
+252,jose,programación,2026-03-01
+570,beatriz,base de datos,2026-02-06
+387,jose,inglés,2026-02-22
+344,beatriz,inglés,2026-02-03
+338,amelia,inglés,2026-02-14
+872,carlos,matemáticas,2026-02-07
+670,amelia,base de datos,2026-02-15
+646,carlos,inglés,2026-02-02
+454,mariana,base de datos,2026-02-16
+266,jose,matemáticas,2026-02-24
+917,carlos,matemáticas,2026-01-11
+337,carlos,matemáticas,2026-02-14
+533,mariana,base de datos,2026-02-02
+296,beatriz,matemáticas,2026-02-01
+242,carlos,matemáticas,2026-02-07
+311,mariana,matemáticas,2026-01-14
+513,amelia,matemáticas,2026-01-06
+339,mariana,matemáticas,2026-03-02
+696,jose,programación,2026-01-26
+976,mariana,inglés,2026-01-22
+720,mariana,matemáticas,2026-01-22
+916,amelia,matemáticas,2026-01-16
+353,jose,base de datos,2026-03-01
+889,amelia,matemáticas,2026-02-20
+165,jose,programación,2026-02-26
+486,carlos,programación,2026-02-23
+995,mariana,matemáticas,2026-02-11
+540,jose,matemáticas,2026-01-26
+180,carlos_123,inglés,2026-02-15
+456,beatriz,base de datos,2026-01-04
+501,carlos,matemáticas,2026-02-17
+861,carlos,inglés,2026-02-09
+601,mariana,base de datos,2026-02-14
+469,beatriz,matemáticas,2026-01-06
+253,amelia,inglés,2026-01-27
+705,beatriz,matemáticas,2026-03-01
+795,mariana,matemáticas,2026-02-01
+987,carlos,matemáticas,2026-01-13
+208,carlos,programación,2026-02-08
+373,beatriz,matemáticas,2026-02-18
+737,mariana,matemáticas,2026-01-06
+704,beatriz,inglés,2026-01-27
+559,jose,programación,2026-02-14
+530,jose,inglés,2026-01-23
+566,beatriz,matemáticas,2026-01-12
+171,jose,inglés,2026-02-02
+219,mariana,inglés,2026-01-23
+836,beatriz,matemáticas,2026-02-17
+301,beatriz,programación,2026-02-08
+753,jose,inglés,2026-02-17
+812,carlos,inglés,2026-02-14
+580,mariana,matemáticas,2026-01-28
+489,mariana,inglés,2026-01-05
+216,beatriz,matemáticas,2026-02-25
+228,beatriz,programación,2026-01-26
+426,mariana,programación,2026-01-06
+864,carlos,base de datos,2026-01-26
+236,mariana,inglés,2026-01-09
+237,mariana,base de datos,2026-01-07
+571,amelia,base de datos,2026-01-18
+729,amelia,programación,2026-02-24
+815,carlos,base de datos,2026-03-02
+578,amelia,base de datos,2026-02-05
+696,beatriz,inglés,2026-01-14
+542,amelia,inglés,2026-01-24
+627,amelia,inglés,2026-01-17
+318,amelia,base de datos,2026-01-21
+973,amelia,programación,2026-01-12
+325,carlos,matemáticas,2026-02-10
+660,amelia,programación,2026-02-15
+589,beatriz,matemáticas,2026-01-14
+266,beatriz,base de datos,2026-01-21
+486,amelia,programación,2026-01-21
+692,beatriz,matemáticas,2026-01-13
+468,amelia,programación,2026-01-03
+549,amelia,programación,2026-01-10
+786,carlos,programación,2026-02-25
+565,amelia,matemáticas,2026-02-02
+177,beatriz,base de datos,2026-02-02
+225,carlos_123,matemáticas,2026-01-07
+216,beatriz,base de datos,2026-02-06
+825,beatriz,base de datos,2026-02-06
+288,beatriz,matemáticas,2026-02-03
+805,mariana,inglés,2026-02-02
+333,carlos_123,programación,2026-02-10
+941,mariana,matemáticas,2026-02-15
+566,mariana,base de datos,2026-01-30
+138,beatriz,base de datos,2026-02-09
+771,carlos,inglés,2026-01-14
+855,jose,base de datos,2026-01-17
+604,amelia,inglés,2026-01-28
+751,jose,inglés,2026-01-22
+150,jose,matemáticas,2026-01-16
+589,jose,base de datos,2026-01-17
+791,beatriz,base de datos,2026-02-24
+173,mariana,inglés,2026-01-02
+199,amelia,programación,2026-02-19
+973,mariana,matemáticas,2026-02-10
+724,mariana,programación,2026-02-27
+977,amelia,inglés,2026-01-31
+314,amelia,matemáticas,2026-01-03
+553,mariana,base de datos,2026-02-06
+507,jose,programación,2026-02-13
+893,mariana,programación,2026-02-13
+929,amelia,programación,2026-02-27
+206,mariana,matemáticas,2026-02-04
+301,jose,base de datos,2026-02-07
+468,mariana,matemáticas,2026-02-22
+886,beatriz,programación,2026-02-02
+578,amelia,base de datos,2026-02-18
+333,beatriz,programación,2026-02-09
+292,jose,base de datos,2026-02-01
+986,amelia,programación,2026-02-22
+584,carlos,inglés,2026-02-01
+873,amelia,inglés,2026-01-17
+823,mariana,inglés,2026-02-25
+698,carlos,base de datos,2026-01-01
+723,jose,matemáticas,2026-01-25
+230,jose,inglés,2026-01-14
+559,beatriz,programación,2026-02-13
+529,mariana,inglés,2026-01-31
+603,carlos,inglés,2026-01-17
+246,beatriz,programación,2026-02-12
+422,mariana,matemáticas,2026-02-05
+453,mariana,inglés,2026-01-27
+328,beatriz,matemáticas,2026-01-22
+683,carlos,matemáticas,2026-01-31
+784,beatriz,matemáticas,2026-02-12
+686,beatriz,matemáticas,2026-01-20
+958,amelia,base de datos,2026-02-11
+919,amelia,programación,2026-01-16
+382,carlos,base de datos,2026-01-18
+571,beatriz,programación,2026-02-11
+674,beatriz,base de datos,2026-01-08
+213,jose,inglés,2026-01-11
+440,amelia,programación,2026-01-11
+512,carlos,matemáticas,2026-01-24
+643,amelia,inglés,2026-01-20
+913,mariana_123,base de datos,2026-01-03
+811,carlos,inglés,2026-02-24
+928,jose,inglés,2026-01-20
+386,carlos,programación,2026-01-04
+407,carlos,programación,2026-02-28
+709,carlos,programación,2026-02-09
+184,carlos,inglés,2026-02-20
+152,beatriz,inglés,2026-02-10
+847,mariana_123,inglés,2026-01-06
+544,amelia,programación,2026-02-26
+558,mariana,matemáticas,2026-01-21
+264,mariana,inglés,2026-02-23
+683,amelia,base de datos,2026-01-24
+333,jose,matemáticas,2026-01-26
+205,jose,programación,2026-02-24
+394,beatriz,programación,2026-01-10
+242,carlos,matemáticas,2026-01-09
+865,carlos,matemáticas,2026-02-21
+328,carlos,inglés,2026-02-08
+261,beatriz,programación,2026-01-02
+811,mariana,inglés,2026-02-25
+297,amelia,inglés,2026-01-11
+308,amelia,base de datos,2026-02-07
+359,amelia,programación,2026-01-07
+248,carlos,inglés,2026-01-16
+343,beatriz,inglés,2026-01-25
+502,amelia,inglés,2026-01-06
+271,beatriz,base de datos,2026-02-22
+293,beatriz,matemáticas,2026-01-20
+863,amelia,matemáticas,2026-01-16
+721,amelia,matemáticas,2026-02-08
+120,jose,programación,2026-01-28
+335,carlos,base de datos,2026-01-07
+723,jose,matemáticas,2026-01-09
+353,carlos,matemáticas,2026-01-13
+844,carlos,base de datos,2026-02-04
+565,mariana,matemáticas,2026-01-23
+794,amelia,base de datos,2026-02-15
+523,mariana,matemáticas,2026-02-01
+981,amelia,base de datos,2026-01-01
+912,jose,matemáticas,2026-01-06
+328,beatriz,base de datos,2026-02-17
+111,mariana,programación,2026-01-04
+221,beatriz_123,programación,2026-02-23
+251,amelia,matemáticas,2026-01-14
+179,carlos,programación,2026-02-12
+862,beatriz,programación,2026-02-18
+728,mariana,matemáticas,2026-01-04
+341,amelia,matemáticas,2026-01-13
+831,carlos,matemáticas,2026-02-21
+893,mariana_123,programación,2026-01-04
+866,carlos,base de datos,2026-01-20
+324,beatriz,inglés,2026-02-01
+714,mariana,matemáticas,2026-02-09
+830,mariana,matemáticas,2026-02-12
+344,carlos,base de datos,2026-02-05
+295,carlos,base de datos,2026-02-12
+472,amelia,base de datos,2026-01-04
+882,beatriz,matemáticas,2026-02-22
+636,beatriz,matemáticas,2026-02-10
+567,beatriz,programación,2026-01-03
+807,amelia,inglés,2026-01-30
+928,carlos,base de datos,2026-01-14
+100,carlos_123,inglés,2026-02-06
+809,mariana,inglés,2026-02-28
+796,carlos,matemáticas,2026-02-28
+703,mariana,programación,2026-02-24
+563,beatriz,matemáticas,2026-01-09
+698,mariana,base de datos,2026-01-24
+378,mariana,matemáticas,2026-02-05
+305,mariana_123,matemáticas,2026-01-07
+862,beatriz,base de datos,2026-03-02
+197,amelia,programación,2026-02-24
+910,mariana,inglés,2026-02-21
+307,mariana,inglés,2026-02-01
+402,carlos,programación,2026-02-28
+481,amelia,inglés,2026-02-24
+518,beatriz,inglés,2026-02-11
+869,carlos_123,inglés,2026-01-10
+645,carlos,matemáticas,2026-02-24
+747,beatriz,programación,2026-02-11
+508,amelia,programación,2026-01-16
+888,beatriz,matemáticas,2026-01-11
+182,carlos,base de datos,2026-02-02
+144,beatriz,base de datos,2026-01-27
+941,mariana,inglés,2026-01-31
+617,beatriz,inglés,2026-02-06
+487,jose,programación,2026-01-31
+104,jose,base de datos,2026-02-05
+425,carlos,programación,2026-02-22
+669,amelia_123,base de datos,2026-03-01
+147,amelia,matemáticas,2026-02-24
+587,beatriz,matemáticas,2026-02-11
+805,jose_123,inglés,2026-01-14
+398,mariana,inglés,2026-02-02
+928,amelia,inglés,2026-01-22
+696,beatriz,base de datos,2026-01-10
+203,mariana,matemáticas,2026-02-10
+207,amelia,programación,2026-02-07
+978,carlos,inglés,2026-02-01
+992,beatriz,programación,2026-01-16
+418,amelia,programación,2026-01-08
+481,jose,programación,2026-01-04
+218,mariana,inglés,2026-01-07
+666,amelia,matemáticas,2026-01-27
+884,beatriz,inglés,2026-02-21
+184,jose,inglés,2026-01-14
+894,mariana,base de datos,2026-01-08
+111,amelia,inglés,2026-01-29
+387,beatriz,programación,2026-01-27
+144,mariana,matemáticas,2026-01-04
+989,amelia,programación,2026-01-13
+805,beatriz,base de datos,2026-01-04
+141,amelia,base de datos,2026-02-01
+457,beatriz,programación,2026-02-07
+515,amelia,base de datos,2026-02-15
+538,jose,matemáticas,2026-03-01
+196,mariana,programación,2026-02-12
+840,jose,matemáticas,2026-01-12
+113,mariana,programación,2026-01-19
+100,amelia,programación,2026-02-09
+721,beatriz,base de datos,2026-01-12
+120,carlos,inglés,2026-01-18
+523,beatriz,programación,2026-02-25
+596,beatriz,programación,2026-02-10
+276,jose,base de datos,2026-01-27
+780,carlos,matemáticas,2026-01-20
+576,mariana,inglés,2026-02-15
+252,jose,base de datos,2026-02-15
+381,amelia,inglés,2026-02-03
+836,mariana,base de datos,2026-02-03
+677,jose,base de datos,2026-02-08
+924,jose,programación,2026-01-07
+331,beatriz,inglés,2026-01-19
+105,mariana,programación,2026-02-13
+278,jose,programación,2026-01-16
+122,beatriz,matemáticas,2026-01-10
+664,jose,base de datos,2026-02-28
+219,carlos,programación,2026-02-25
+676,mariana,matemáticas,2026-02-14
+215,amelia,matemáticas,2026-02-01
+307,carlos,programación,2026-01-28
+598,mariana,base de datos,2026-01-07
+409,jose,matemáticas,2026-03-01
+720,carlos,inglés,2026-01-06
+477,jose,inglés,2026-02-05
+107,carlos,base de datos,2026-02-12
+296,amelia,inglés,2026-02-01
+275,mariana,inglés,2026-01-07
+592,mariana,inglés,2026-03-02
+502,beatriz,base de datos,2026-01-27
+864,amelia,base de datos,2026-01-06
+834,beatriz,programación,2026-01-28
+841,carlos,matemáticas,2026-01-03
+366,mariana,base de datos,2026-02-27
+782,jose,inglés,2026-02-24
+398,carlos,matemáticas,2026-02-25
+990,jose_123,base de datos,2026-01-24
+703,mariana,base de datos,2026-02-07
+420,carlos,matemáticas,2026-01-15
+766,jose,inglés,2026-01-05
+710,beatriz,base de datos,2026-01-15
+908,beatriz,base de datos,2026-02-26
+322,carlos,programación,2026-01-26
+345,beatriz,matemáticas,2026-01-29
+629,carlos,programación,2026-01-17
+477,jose,base de datos,2026-01-14
+887,mariana,inglés,2026-01-14
+291,amelia,matemáticas,2026-02-18
+996,carlos,matemáticas,2026-02-07
+297,beatriz,base de datos,2026-01-25
+657,mariana,inglés,2026-02-18
+724,mariana_123,inglés,2026-01-17
+993,jose,programación,2026-02-07
+468,beatriz,matemáticas,2026-01-27
+135,amelia,matemáticas,2026-02-04
+404,amelia,inglés,2026-02-15
+694,jose,matemáticas,2026-02-20
+881,carlos,base de datos,2026-01-27
+651,jose,base de datos,2026-01-27
+527,jose,base de datos,2026-02-24
+823,beatriz,base de datos,2026-02-22
+503,mariana_123,matemáticas,2026-02-19
+697,carlos,base de datos,2026-02-02
+241,carlos,programación,2026-01-16
+938,mariana,inglés,2026-01-12
+808,amelia_123,base de datos,2026-01-17
+427,carlos,programación,2026-02-12
+473,jose,inglés,2026-02-10
+353,beatriz,base de datos,2026-02-05
+502,beatriz,matemáticas,2026-02-24
+129,mariana,programación,2026-01-29
+244,beatriz,matemáticas,2026-02-17
+380,mariana,matemáticas,2026-02-26
+938,jose,inglés,2026-02-21
+507,jose,base de datos,2026-01-04
+206,beatriz_123,programación,2026-01-24
+454,amelia,programación,2026-02-23
+324,amelia,programación,2026-02-15
+322,jose,matemáticas,2026-01-02
+161,mariana,base de datos,2026-03-01
+583,carlos,inglés,2026-01-17
+538,amelia,inglés,2026-03-02
+350,mariana,inglés,2026-02-27
+969,mariana,base de datos,2026-02-09
+733,mariana,base de datos,2026-01-14
+105,mariana_123,matemáticas,2026-02-18
+824,carlos_123,inglés,2026-02-18
+495,carlos,inglés,2026-01-15
+750,jose,base de datos,2026-02-18
+953,mariana,matemáticas,2026-01-07
+730,jose,inglés,2026-02-04
+585,jose,inglés,2026-02-19
+812,amelia,programación,2026-02-21
+576,amelia,matemáticas,2026-01-21
+763,jose,base de datos,2026-01-23
+919,jose,matemáticas,2026-01-21
+604,beatriz,base de datos,2026-02-19
+817,beatriz,base de datos,2026-02-15
+869,carlos,inglés,2026-01-13
+143,beatriz,programación,2026-01-20
+555,jose,matemáticas,2026-02-24
+804,beatriz,matemáticas,2026-01-27
+570,beatriz,inglés,2026-02-14
+874,carlos,programación,2026-02-22
+532,amelia,inglés,2026-01-07
+628,mariana_123,inglés,2026-01-09
+602,jose_123,base de datos,2026-03-01
+459,mariana,programación,2026-02-16
+715,mariana,matemáticas,2026-02-14
+839,jose,programación,2026-03-01
+282,carlos,base de datos,2026-01-25
+415,mariana,matemáticas,2026-01-22
+325,beatriz,programación,2026-02-01
+759,carlos,programación,2026-03-01
+235,beatriz,programación,2026-01-23
+945,carlos,matemáticas,2026-01-17
+768,jose,base de datos,2026-01-28
+555,jose,programación,2026-02-18
+859,mariana,inglés,2026-01-07
+462,beatriz,matemáticas,2026-01-18
+245,mariana,inglés,2026-01-31
+914,jose,matemáticas,2026-02-15
+760,mariana,inglés,2026-01-11
+766,mariana,base de datos,2026-01-12
+674,jose,base de datos,2026-01-27
+395,beatriz,programación,2026-01-31
+298,jose,matemáticas,2026-02-06
+936,amelia,matemáticas,2026-02-22
+785,beatriz,matemáticas,2026-02-17
+761,beatriz,inglés,2026-02-23
+524,beatriz,matemáticas,2026-01-26
+161,carlos,inglés,2026-01-15
+570,beatriz,programación,2026-01-05
+687,carlos,programación,2026-02-03
+194,amelia,base de datos,2026-01-19
+958,carlos,base de datos,2026-01-29
+912,beatriz,matemáticas,2026-02-21
+851,mariana,programación,2026-01-21
+268,carlos,programación,2026-01-22
+167,beatriz,programación,2026-01-27
+585,amelia,programación,2026-02-15
+708,mariana,matemáticas,2026-02-27
+796,jose,inglés,2026-02-02
+638,jose,base de datos,2026-02-27
+175,jose_123,base de datos,2026-01-27
+133,jose,matemáticas,2026-01-20
+693,mariana_123,programación,2026-01-06
+465,jose,inglés,2026-02-07
+221,jose,matemáticas,2026-01-24
+961,amelia,matemáticas,2026-01-07
+253,beatriz_123,base de datos,2026-01-06
+874,mariana,inglés,2026-01-28
+759,amelia_123,matemáticas,2026-01-22
+579,amelia,matemáticas,2026-02-01
+477,mariana,base de datos,2026-02-23
